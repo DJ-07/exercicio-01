@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    background-color: aliceblue;
+}
+.titulo{
+    color: darkblue;
+    font-size: 20px;
+}
+.espaço{
+    margin-left: 50px; image-resolution: from-image;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
